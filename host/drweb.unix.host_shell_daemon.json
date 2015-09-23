@@ -1,0 +1,7 @@
+{
+	"name": "drweb.unix.host_shell_daemon",
+	"description": "Dr.web ctl",
+	"path": "HOST_PATH",
+	"type": "stdio",
+	"allowed_origins": ["chrome-extension://ceekggenocbiohncdkpfjddnacaigeba/"]
+}

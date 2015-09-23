@@ -1,0 +1,14 @@
+{
+	"background": {
+		"scripts": [ 
+			"background.js" 
+		]
+	},
+  "description": "Native messaging example",
+  "manifest_version": 2,
+  "name": "NativeConnect",
+  "permissions": [ 
+    "nativeMessaging"
+  ],
+  "version": "1.0.0.1"
+}
